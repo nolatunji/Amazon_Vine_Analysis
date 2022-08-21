@@ -1,5 +1,13 @@
 # Amazon_Vine_Analysis
 
+## Tools
+* PySpark
+* Jupyter Notebook
+* Python
+* AWS
+* SQL
+
+
 ## Overview of the Analysis
 The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. For this project the goal is to analyze reviews written by members of the paid Amazon Vine program. Companies pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review. There are numerous product categories that are a part of the Vine program. This analysis focused on 'Digital Video Downloads' and the reviews provided for this category of products. The goal of the analysis is to determine if there is any bias toward favorable reviews from Vine members. 
 
