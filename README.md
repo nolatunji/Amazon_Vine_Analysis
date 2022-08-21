@@ -6,6 +6,7 @@
 * Python
 * AWS
 * SQL
+* Google Colab
 
 
 ## Overview of the Analysis
