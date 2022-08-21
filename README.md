@@ -2,7 +2,6 @@
 
 ## Tools
 * PySpark
-* Jupyter Notebook
 * Python
 * AWS
 * SQL
